@@ -3,6 +3,7 @@ void num();
 void main()
 {
     num();
+    p
 }
 void num()
 {
