@@ -1,0 +1,7 @@
+birth_year=input('birth_year ?')
+print(type(birth_year))
+current_year=input('current year? ')
+print(type(current_year))
+age =int(current_year)-int(birth_year)
+print(type(age))
+print(age)
